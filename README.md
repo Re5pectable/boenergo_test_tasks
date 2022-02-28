@@ -9,7 +9,7 @@
 
 В качестве входных данных в сервис передаются значения a, b, c.
 
-![task_1_screen](https://user-images.githubusercontent.com/59067994/156048328-4311eb26-4995-4c42-81b8-855862d8095e.png)
+![task_1_screen](https://user-images.githubusercontent.com/59067994/156049196-02c3772e-4b28-48f6-ac03-639a0f24e4be.png)
 
 
 ### Второе задание
